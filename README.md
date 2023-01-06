@@ -45,8 +45,17 @@ A comprehensive investigation deters fakers, who might withdraw to avoid embarra
 ![Screenshot (35)](https://user-images.githubusercontent.com/52947925/211109846-b8803925-dbfc-4ae0-90f0-e4b4152e7f9e.png)
 
 - Database
+
 ![Screenshot (18)](https://user-images.githubusercontent.com/52947925/211110458-b1b3493a-a57d-4fde-96ed-1e62bf98b7f5.png)
 
 
 - Relationship diagram
+
 ![Relationship diagram](https://user-images.githubusercontent.com/52947925/211109641-21427dea-8ffa-47a6-8c25-652f994bb35f.jpg)
+
+
+# Conclusion
+This project is extremely beneficial to the entire firm. Once logged in, a corporation can easily undertake background checks on its personnel. We avoid spending money and effort on background checks. Every time a new employee joins, his CV's information is checked on this website using his unique identity number. If we enter a new employee's unique identity number on the website, the number will be accepted. If the applicant has experience, the website already displays the information about previous job. By constant use of our website, we are successful in achieving the accurate result.
+
+# Future Scope
+The firm can view the salary and personal information of an employee in this project. In the future, we can improve this project by adding a checkbox that allows employees to authorize employers to read information about prior jobs. Employee can play a variety of roles if treated like an actor. By giving the employee the chance to provide feedback, we can further improve the usability.
