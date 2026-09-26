@@ -1,0 +1,6 @@
+# Local database configuration
+.env
+.env.*
+!.env.example
+EBV/ConnectionStrings.config
+

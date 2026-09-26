@@ -24,14 +24,18 @@ EBV/       Web application, role-specific pages, and project configuration
 EBV.sln    Visual Studio solution
 ```
 
+## Local database configuration
+
+Copy `EBV/ConnectionStrings.example.config` to `EBV/ConnectionStrings.config` and replace the placeholder values locally. The local configuration file is ignored by Git and must not be committed.
+
 ## Project status
 
 This is an archived educational prototype built on .NET Framework 4.0. It requires a security and privacy redesign before it can be run with any real data.
 
 Priority improvements:
 
-- Rotate exposed database credentials and remove them from the repository and Git history
-- Move configuration to environment variables or an ignored local file
+- Rotate the previously exposed database credentials and purge them from Git history
+- Validate the ignored local configuration workflow
 - Replace sensitive identifiers with synthetic development data
 - Add explicit consent, access controls, retention rules, and audit logs
 - Review all database access for parameterized queries
